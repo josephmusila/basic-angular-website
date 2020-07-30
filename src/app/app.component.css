@@ -1,0 +1,25 @@
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+}
+.never{
+    font-weight: bold;
+    font-size: 22px;
+    color: red;
+    text-align: center;
+    animation-name: jose;
+    animation-iteration-count: infinite;
+    animation-duration: 5s;
+    border-width: 5px;
+    border-color: red;
+}
+@keyframes jose{
+    from{color: red;}
+    to{color: blue;}
+    
+    from{border-style: double;}
+    from{border-style: solid;}
+    from{border-style: dotted;}
+    from{border-style: none;}
+}

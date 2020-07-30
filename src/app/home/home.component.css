@@ -1,0 +1,26 @@
+.intro{
+    font-size: 20px;
+    color: rgb(14, 4, 4);
+    margin: 10px;
+
+}
+.intro2{
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 10px;
+}
+.intro3{
+    color: black;
+    
+    
+    font-weight: normal;
+    font-size: 20px;
+    margin: 10px;
+}
+.list{
+    color: crimson;
+    list-style-type: none;
+}
